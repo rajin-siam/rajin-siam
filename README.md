@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Md. Rajin Mashrur Siam]</h1>
+<h1 align="center">Hi 👋, I'm Md. Rajin Mashrur Siam</h1>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -24,28 +24,28 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=[rajin-siam]&show_icons=true&theme=dark&locale=en&layout=compact" alt="[YourUsername]" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajin-siam&show_icons=true&theme=dark&locale=en&layout=compact" alt="rajin-siam" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=[rajin-siam]&show_icons=true&theme=dark&locale=en" alt="[rajin-siam]" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajin-siam&show_icons=true&theme=dark&locale=en" alt="rajin-siam" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=[rajin-siam]&theme=dark" alt="[rajin-siam]" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin-siam&theme=dark" alt="rajin-siam" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/[YourLinkedInProfile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YourName]" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/[YourStackOverflowID]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="[YourStackOverflowID]" height="30" width="40" /></a>
-<a href="https://kaggle.com/[YourKaggleID]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="[YourKaggleID]" height="30" width="40" /></a>
-<a href="https://instagram.com/[YourInstagramHandle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[YourInstagramHandle]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/YourLinkedInProfile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YourName" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/YourStackOverflowID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="YourStackOverflowID" height="30" width="40" /></a>
+<a href="https://kaggle.com/YourKaggleID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="YourKaggleID" height="30" width="40" /></a>
+<a href="https://instagram.com/YourInstagramHandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="YourInstagramHandle" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="[YourUsername]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajin-siam&label=Profile%20views&color=0e75b6&style=flat" alt="rajin-siam" /> </p>
 
 ------
 
-[YourName](https://github.com/[YourUsername])
+Md. Rajin Mashrur Siam (https://github.com/rajin-siam)
 
-Last Edited on: [Current Date]
+Last Edited on: October 10, 2024
