@@ -36,6 +36,31 @@
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 
+<h3 align="left">Top Projects:</h3>
+<ul>
+  <li><a href="https://github.com/rajin-siam/online-shop-backend" target="_blank">Online Shop Backend</a></li>
+  <li><a href="https://github.com/rajin-siam/personal-finance-management" target="_blank">Personal Finance Management</a></li>
+  <li><a href="https://github.com/rajin-siam/Covid-Vaccination-Project-in-C" target="_blank">Covid Vaccination Project in C</a></li>
+  <li><a href="https://github.com/rajin-siam/Inventory-Management-System" target="_blank">Inventory Management System</a></li>
+  <li><a href="https://github.com/rajin-siam/TicTacToe" target="_blank">Tic Tac Toe</a></li>
+</ul>
+
+<hr width="60%" >
+
+<h3 align="left">Online Judges and Judge ID</h3>
+
+| Judge          | Profile Link                                             | Solved Problems |
+|----------------|---------------------------------------------------------|------------------|
+| **CodeChef**   | [rajin_siam](https://www.codechef.com/users/rajin_siam)     | 6                |
+| **AtCoder**    | [rajin_siam](https://atcoder.jp/users/rajin_siam)           | 196              |
+| **Codeforces** | [rajin_siam](https://codeforces.com/profile/rajin_siam)     | 184              |
+| **Spoj**       | [rajin_siam](https://www.spoj.com/users/rajin_siam)         | 5                |
+| **UVA**        | [rajin_siam](https://uhunt.onlinejudge.org/id/rajin_siam)   | 103              |
+| **HackerRank** | [RajinSiam](https://www.hackerrank.com/RajinSiam)           | 45               |
+| **HackerEarth**| [gogeta14](https://www.hackerearth.com/@gogeta14)           | 10               |
+
+<hr width="60%" >
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-rajin-mashrur-siam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rajin-mashrur-siam" height="30" width="40" /></a>
