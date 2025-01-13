@@ -32,9 +32,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajin-siam&show_icons=true&theme=dark&locale=en" alt="rajin-siam" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin-siam&theme=dark" alt="rajin-siam" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
 
 <h3 align="left">Top Projects:</h3>
 <ul>
