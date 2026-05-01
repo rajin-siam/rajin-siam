@@ -84,16 +84,6 @@ When I'm not building, I'm learning — currently exploring **distributed system
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajin-siam&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
 ## Education
 
 **MSc in Information and Communication Technology** — MBSTU *(May 2025 – Present)*
