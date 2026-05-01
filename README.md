@@ -1,74 +1,113 @@
-<h1 align="center">Hi 👋, I'm Md. Rajin Mashrur Siam</h1>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# Md. Rajin Mashrur Siam
 
-🌱 I’m currently learning **Spring Framework** and enjoy solving technical problems.  
-💡 Eager to contribute to **Open Source Projects**.  
-👨‍💻 Passionate about **Backend Development**, and always learning new technologies.
+**Junior Software Engineer · Backend Developer · Problem Solver**
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rajin-mashrur-siam)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22702016/md-rajin-mashrur-siam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/rajin-siam)
+[![Profile Views](https://komarev.com/ghpvc/?username=rajin-siam&style=flat-square&color=0e75b6)](https://github.com/rajin-siam)
 
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p><br>
+</div>
 
-<hr width="36%" >
+---
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-<br>
+## About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajin-siam&show_icons=true&theme=dark&locale=en&layout=compact" alt="rajin-siam" /></p>
+Junior Software Engineer with hands-on experience building enterprise web applications using **Java**, **Spring Boot**, and **RESTful APIs**. I focus on scalable backend systems, clean architecture, and secure authentication.
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajin-siam&show_icons=true&theme=dark&locale=en" alt="rajin-siam" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+Currently contributing to a **production-grade indoor mapping platform** and a **Map API management system** at Technonext Software Limited — while pursuing an **MSc in ICT** at MBSTU.
 
+- 🔭 Working on indoor navigation (ARCore + Spring Boot + PostgreSQL)
+- 🌱 Deepening expertise in **Spring Framework**, **DDD**, and **distributed systems**
+- 💡 Interested in contributing to **open source**
+- 🧩 **700+ problems** solved across competitive programming platforms
 
-<h3 align="left">Top Projects:</h3>
-<ul>
-  <li><a href="https://github.com/rajin-siam/ShopVerse" target="_blank">ShopVerse</a></li>
-  <li><a href="https://github.com/rajin-siam/personal-finance-management" target="_blank">Personal Finance Management</a></li>
-  <li><a href="https://github.com/rajin-siam/Covid-Vaccination-Project-in-C" target="_blank">Covid Vaccination Project in C</a></li>
-  <li><a href="https://github.com/rajin-siam/Inventory-Management-System" target="_blank">Inventory Management System</a></li>
-  <li><a href="https://github.com/rajin-siam/Portfolio" target="_blank">Portfolio</a></li>
-</ul>
+---
 
-<hr width="60%" >
+## Tech Stack
 
-<h3 align="left">Online Judges and Judge ID</h3>
+**Languages**
 
-| Judge          | Profile Link                                             | Solved Problems |
-|----------------|---------------------------------------------------------|------------------|
-| **CodeChef**   | [rajin_siam](https://www.codechef.com/users/rajin_siam)     | 6                |
-| **AtCoder**    | [rajin_siam](https://atcoder.jp/users/rajin_siam)           | 196              |
-| **Codeforces** | [rajin_siam](https://codeforces.com/profile/rajin_siam)     | 213              |
-| **Leetcode**   | [rajinsia9](https://leetcode.com/u/rajinsiam9/)           | 167               |
-| **Spoj**       | [rajin_siam](https://www.spoj.com/users/rajin_siam)         | 5                |
-| **UVA**        | [rajin_siam](https://uhunt.onlinejudge.org/id/rajin_siam)   | 103              |
-| **HackerRank** | [RajinSiam](https://www.hackerrank.com/RajinSiam)           | 70               |
-| **HackerEarth**| [gogeta14](https://www.hackerearth.com/@gogeta14)           | 10               |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<hr width="60%" >
+**Frameworks & Tools**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-rajin-mashrur-siam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rajin-mashrur-siam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22702016/md-rajin-mashrur-siam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-rajin-mashrur-siam" height="30" width="40" /></a>
-</p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajin-siam&label=Profile%20views&color=0e75b6&style=flat" alt="rajin-siam" /> </p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-------
+---
 
-Md. Rajin Mashrur Siam (https://github.com/rajin-siam)
+## Experience
 
-Last Edited on: October 10, 2024
+**Junior Software Engineer** — [Technonext Software Limited](https://technonext.com), Dhaka *(Sep 2024 – Present)*
+
+- Built backend features for a **Map API management platform** (API publishing + user subscriptions)
+- Designed a **DDD-based monorepo** architecture with Spring Boot
+- Implemented **JWT authentication** and role-based access control for an indoor map project
+- Applied **Redis caching** to improve system performance
+- Contributed to architecture decisions and code quality via reviews and integration tests
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**ShopVerse**](https://github.com/rajin-siam/ShopVerse) | Full-featured e-commerce platform with cart, payments, and admin dashboard | Spring Boot, React, Vite |
+| [**Resource Helper**](https://github.com/rajin-siam) | AI-powered resource guidance tool with Google/GitHub auth and real-time search | Web, Firebase |
+| [**Personal Finance Management**](https://github.com/rajin-siam/personal-finance-management) | Finance tracker with data visualization and category breakdowns | Web |
+| [**Inventory Management System**](https://github.com/rajin-siam/Inventory-Management-System) | Inventory tracking and management system | — |
+
+---
+
+## Competitive Programming
+
+| Platform | Profile | Solved |
+|----------|---------|--------|
+| Codeforces | [rajin_siam](https://codeforces.com/profile/rajin_siam) | 213 |
+| AtCoder | [rajin_siam](https://atcoder.jp/users/rajin_siam) | 196 |
+| LeetCode | [rajinsiam9](https://leetcode.com/u/rajinsiam9/) | 167 |
+| UVA | [rajin_siam](https://uhunt.onlinejudge.org/id/rajin_siam) | 103 |
+| HackerRank | [RajinSiam](https://www.hackerrank.com/RajinSiam) | 70 |
+| SPOJ | [rajin_siam](https://www.spoj.com/users/rajin_siam) | 11 |
+| HackerEarth | [gogeta14](https://www.hackerearth.com/@gogeta14) | 10 |
+| CodeChef | [rajin_siam](https://www.codechef.com/users/rajin_siam) | 6 |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rajin-siam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajin-siam&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## Education
+
+**MSc in Information and Communication Technology** — MBSTU *(May 2025 – Present)*
+
+**BSc (Engg.) in Information and Communication Technology** — MBSTU *(Feb 2020 – Mar 2025)* · CGPA: 3.35 / 4.00
+
+---
+
+<div align="center">
+
+📫 **mdrajinmashrursiam@gmail.com** · 📍 Dhaka, Bangladesh
+
+</div>
