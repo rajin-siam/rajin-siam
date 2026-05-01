@@ -4,10 +4,11 @@
 
 **Junior Software Engineer · Backend Developer · Problem Solver**
 
+📫 [mdrajinmashrursiam@gmail.com](mailto:mdrajinmashrursiam@gmail.com) · 📞 01344782702 · 📍 Dhaka, Bangladesh
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rajin-mashrur-siam)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22702016/md-rajin-mashrur-siam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/rajin-siam)
-[![Profile Views](https://komarev.com/ghpvc/?username=rajin-siam&style=flat-square&color=0e75b6)](https://github.com/rajin-siam)
 
 </div>
 
@@ -15,14 +16,16 @@
 
 ## About Me
 
-Junior Software Engineer with hands-on experience building enterprise web applications using **Java**, **Spring Boot**, and **RESTful APIs**. I focus on scalable backend systems, clean architecture, and secure authentication.
+I'm a backend-focused software engineer who genuinely enjoys understanding how systems work under the hood — not just making them work, but knowing *why* they work. I build with **Java** and **Spring Boot** as my primary stack, and I'm comfortable reaching for **C#/.NET**, **Go**, or **TypeScript** when the problem calls for it.
 
-Currently contributing to a **production-grade indoor mapping platform** and a **Map API management system** at Technonext Software Limited — while pursuing an **MSc in ICT** at MBSTU.
+My background is in **ICT engineering** (BSc + MSc from MBSTU), and I've sharpened my problem-solving skills across **700+ competitive programming solutions** on platforms like Codeforces, AtCoder, and LeetCode. I care deeply about clean architecture, secure APIs, and writing code that other people can actually read and maintain.
 
-- 🔭 Working on indoor navigation (ARCore + Spring Boot + PostgreSQL)
-- 🌱 Deepening expertise in **Spring Framework**, **DDD**, and **distributed systems**
-- 💡 Interested in contributing to **open source**
-- 🧩 **700+ problems** solved across competitive programming platforms
+When I'm not building, I'm learning — currently exploring **distributed systems**, **DDD**, and backend design patterns that scale.
+
+- 🔭 Building indoor navigation systems with ARCore + Spring Boot + PostgreSQL
+- 🌱 Currently learning **Go** and deepening Spring ecosystem knowledge
+- 💡 Interested in open source contribution and backend infrastructure
+- 🧩 **800+ problems** solved across competitive programming platforms
 
 ---
 
@@ -31,33 +34,27 @@ Currently contributing to a **production-grade indoor mapping platform** and a *
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks & Libraries**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Databases & Tools**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-## Experience
-
-**Junior Software Engineer** — [Technonext Software Limited](https://technonext.com), Dhaka *(Sep 2024 – Present)*
-
-- Built backend features for a **Map API management platform** (API publishing + user subscriptions)
-- Designed a **DDD-based monorepo** architecture with Spring Boot
-- Implemented **JWT authentication** and role-based access control for an indoor map project
-- Applied **Redis caching** to improve system performance
-- Contributed to architecture decisions and code quality via reviews and integration tests
 
 ---
 
@@ -87,11 +84,10 @@ Currently contributing to a **production-grade indoor mapping platform** and a *
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rajin-siam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajin-siam&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
@@ -103,11 +99,3 @@ Currently contributing to a **production-grade indoor mapping platform** and a *
 **MSc in Information and Communication Technology** — MBSTU *(May 2025 – Present)*
 
 **BSc (Engg.) in Information and Communication Technology** — MBSTU *(Feb 2020 – Mar 2025)* · CGPA: 3.35 / 4.00
-
----
-
-<div align="center">
-
-📫 **mdrajinmashrursiam@gmail.com** · 📍 Dhaka, Bangladesh
-
-</div>
