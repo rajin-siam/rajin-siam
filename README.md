@@ -18,7 +18,7 @@
 
 I'm a backend-focused software engineer who genuinely enjoys understanding how systems work under the hood — not just making them work, but knowing *why* they work. I build with **Java** and **Spring Boot** as my primary stack, and I'm comfortable reaching for **C#/.NET**, **Go**, or **TypeScript** when the problem calls for it.
 
-My background is in **ICT engineering** (BSc + MSc from MBSTU), and I've sharpened my problem-solving skills across **700+ competitive programming solutions** on platforms like Codeforces, AtCoder, and LeetCode. I care deeply about clean architecture, secure APIs, and writing code that other people can actually read and maintain.
+My background is in **ICT** (BSc + MSc from MBSTU), and I've sharpened my problem-solving skills across **800+ competitive programming solutions** on platforms like Codeforces, AtCoder, and LeetCode. I care deeply about clean architecture, secure APIs, and writing code that other people can actually read and maintain.
 
 When I'm not building, I'm learning — currently exploring **distributed systems**, **DDD**, and backend design patterns that scale.
 
@@ -65,7 +65,8 @@ When I'm not building, I'm learning — currently exploring **distributed system
 | [**ShopVerse**](https://github.com/rajin-siam/ShopVerse) | Full-featured e-commerce platform with cart, payments, and admin dashboard | Spring Boot, React, Vite |
 | [**Resource Helper**](https://github.com/rajin-siam) | AI-powered resource guidance tool with Google/GitHub auth and real-time search | Web, Firebase |
 | [**Personal Finance Management**](https://github.com/rajin-siam/personal-finance-management) | Finance tracker with data visualization and category breakdowns | Web |
-| [**Inventory Management System**](https://github.com/rajin-siam/Inventory-Management-System) | Inventory tracking and management system | — |
+| [**RailBook*](https://github.com/rajin-siam/RailBook) | Rail Ticket Booking System | ASP.NET, Angular |
+| [dse-scraper](https://github.com/rajin-siam/dse-scraper) | Dhaka Stock Exchange Scrapper | Python |
 
 ---
 
